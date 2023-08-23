@@ -1,0 +1,33 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "a32373bc-8c78-e37a-f79e-1f15686d1a9b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "math-diagnostic"
+  },
+  "course_title": "Math Diagnostic",
+  "course_description": "",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "pre-8.01",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "math-diagnostic"
+  },
+  "learning_resource_types": [
+    "Online Textbook"
+  ],
+  "site_uid": "76529561-ec09-456e-9c2c-5cecd51b64c4",
+  "site_short_id": "pre-8.01-fall-2022"
+}

@@ -1,0 +1,9 @@
+leftnav:
+- identifier: cccd44ac-6317-4c69-84d2-794557b31ba1
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: ebed1634-50fa-488e-86a2-ea1ab0a5e43e
+  name: Online Textbook
+  pageRef: /pages/online-textbook
+  weight: 20
