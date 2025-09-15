@@ -26,8 +26,9 @@
     "website": "math-diagnostic"
   },
   "learning_resource_types": [
-    "Online Textbook"
+    "Open Textbooks"
   ],
   "site_uid": "76529561-ec09-456e-9c2c-5cecd51b64c4",
-  "site_short_id": "pre-8.01-fall-2022"
+  "site_short_id": "pre-8.01-fall-2022",
+  "site_url_path": "courses/pre-8-01-math-diagnostic-Fall-2022"
 }
